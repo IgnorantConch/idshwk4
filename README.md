@@ -21,3 +21,4 @@
 + you may measure the time interval every time http_reply is triggered
 ## Reference
 http_replt (https://docs.zeek.org/en/master/scripts/base/bif/plugins/Zeek_HTTP.events.bif.zeek.html#id-http_reply)
+Sumstat (https://docs.zeek.org/en/current/frameworks/sumstats.html)
