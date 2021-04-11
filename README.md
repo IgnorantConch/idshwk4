@@ -8,4 +8,4 @@
 ## The Algorithm Requirement
 + make 404 statistics on orig_h
 + In every 10 minutes
-++ if the count of 404 response > 2
+  + if the count of 404 response > 2
