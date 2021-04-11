@@ -19,3 +19,5 @@
 + Sumstats is option but not a requirement
 + you may use set,table and record to do the calculating
 + you may measure the time interval every time http_reply is triggered
+## Reference
+http_replt (https://docs.zeek.org/en/master/scripts/base/bif/plugins/Zeek_HTTP.events.bif.zeek.html#id-http_reply)
